@@ -1,2 +1,2 @@
-# astr-119-session-5
+# astr-119
 Useful numpy 
